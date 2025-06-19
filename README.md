@@ -14,7 +14,7 @@ SpendPy is a personal finance automation tool built with **Python**, designed to
 - 🐼 Data handling with **Pandas**
 - 🌐 Web-based UI powered by **Streamlit**
 - 🗂️ Simple CSV-based input format for maximum compatibility
-
+ 
 ---
 
 ## 🚀 Quick Demo
